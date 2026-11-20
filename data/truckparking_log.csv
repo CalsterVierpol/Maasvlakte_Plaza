@@ -1681,3 +1681,5 @@
 2026-11-20;03:09;2026-11-20 03:00;2026-11-20 02:09:48;NL-12_418;Maasvlakte Plaza Zuid (Luzonstraat 6);186;14;200;93,0;14;0;61,3;spacesAvailable;2026-11-20 03:07:51;1,9;
 2026-11-20;12:10;2026-11-20 12:00;2026-11-20 11:10:25;NL-12_411;Maasvlakte Plaza Noord (Hormuzstraat);138;443;581;23,8;443;6;9,8;spacesAvailable;2026-11-20 12:07:50;2,6;groep 2 capaciteit wijkt af (418 i.p.v. 408)
 2026-11-20;12:10;2026-11-20 12:00;2026-11-20 11:10:25;NL-12_418;Maasvlakte Plaza Zuid (Luzonstraat 6);84;116;200;42,0;116;0;19,7;spacesAvailable;2026-11-20 12:07:51;2,6;
+2026-11-20;20:50;2026-11-20 21:00;2026-11-20 19:50:46;NL-12_411;Maasvlakte Plaza Noord (Hormuzstraat);447;134;581;76,9;134;26;47,8;spacesAvailable;2026-11-20 20:48:50;1,9;groep 2 capaciteit wijkt af (419 i.p.v. 408)
+2026-11-20;20:50;2026-11-20 21:00;2026-11-20 19:50:46;NL-12_418;Maasvlakte Plaza Zuid (Luzonstraat 6);200;0;200;100,0;0;0;66,7;full;2026-11-20 20:48:51;1,9;
